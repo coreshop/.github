@@ -16,22 +16,3 @@ transcends ordinary transactions.
 # Further Information
 
 - [Website](https://www.coreshop.org)
-- [Documentation](https://docs.coreshop.org/latest)
-- [Pimcore Github](https://github.com/pimcore/pimcore)
-
-# Requirements
-
-- Pimcore `^11.1`
-
-# Installation
-
-Read our Documentation for the Installation Guide [here](https://docs.coreshop.org/CoreShop/Getting_Started/Installation)
-
-# Demo
-
-Discover the full potential of CoreShop through our interactive demos. Read more about this [here](https://docs.coreshop.org/CoreShop/Getting_Started/Demo)
-
-## Copyright and license
-
-Copyright: [CoreShop GmbH](https://www.coreshop.org)
-For licensing details please visit [LICENSE.md](LICENSE.md)
