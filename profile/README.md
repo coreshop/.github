@@ -15,4 +15,4 @@ transcends ordinary transactions.
 
 # Further Information
 
-- [Website](https://www.coreshop.org)
+- [Website](https://www.coreshop.com)
